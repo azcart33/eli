@@ -1,0 +1,22 @@
+.web{
+    padding-top: 60px;
+}
+.web-top{
+    width: 30%;
+    margin:auto;
+    fill:#ff455c
+}
+.orta{
+    text-align: center;
+    padding: 20px;
+}
+.orta p{
+    margin-top: 10px;
+}
+.qutu{
+    border:  1px solid #d2d7df;
+    padding: 30px 0;
+}
+.orta h1{
+    color: #3f3f3f
+}
